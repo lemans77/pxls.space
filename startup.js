@@ -5,7 +5,7 @@
 	_script.onload = function() {
 		var b = new Botnet({
 			title: "Прапор і Скороп", /* title */
-			src: "http://i.imgur.com/RA3SbBa.png", /* image url or Base64 */
+			src: "https://raw.githubusercontent.com/NomoX/pxls.space/master/template/current.png", /* image url or Base64 */
 			x: 0, /* x offset */
 			y: 1600, /* y offset */
 			ignore: [], /* alpha colors ex. [[255, 0, 255, 255], [0, 0, 0, 255]] */
